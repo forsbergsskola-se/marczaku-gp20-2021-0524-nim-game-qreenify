@@ -1,0 +1,3 @@
+D:/Forsbergs/unity/marczaku-gp20-2021-0524-nim-game-qreenify/TicTac/cmake-build-debug/CMakeFiles/TicTac.dir
+D:/Forsbergs/unity/marczaku-gp20-2021-0524-nim-game-qreenify/TicTac/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Forsbergs/unity/marczaku-gp20-2021-0524-nim-game-qreenify/TicTac/cmake-build-debug/CMakeFiles/rebuild_cache.dir

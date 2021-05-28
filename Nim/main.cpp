@@ -44,6 +44,7 @@ void NimGame::StartupMessage() {
 
 };
 
+int v1 = rand() > 0 < 4;
 void NimGame::PlayerInput(){
     int playerInput;
     do {
